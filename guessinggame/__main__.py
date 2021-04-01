@@ -11,5 +11,5 @@ Version: 0.1
 """
 
 import sys
-from src.guess.Main import Main
+from guessinggame.guess.Main import Main
 Main.main(sys.argv)
